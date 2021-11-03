@@ -39,7 +39,7 @@ function App() {
         >
           Learn React
         </a>
-        <p>My first pull request!</p>
+        <p>My first pull request! AXYET'</p>
         <button onClick={onClick}>change data</button>
       </header>
     </div>
